@@ -1,0 +1,3 @@
+------------Career Path Suggestion System----------------------------
+There are two modules in the project - Data Extraction and Job Suggestion.
+Extracted data is in .csv format. Job outputs are currently given in MATLAB
